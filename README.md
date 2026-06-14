@@ -1,81 +1,89 @@
-# Hi there, I'm Anto 👋
+# Hello there, fellow <coders/> 👋
 
-🎓 MSc Big Data Management & Analytics Student at Griffith College Dublin
+I'm **Anto**, an MSc Big Data Management & Analytics student at Griffith College Dublin with a passion for **Data Engineering, Artificial Intelligence, Machine Learning, and Software Development**.
 
-💡 Passionate about Data Engineering, Artificial Intelligence, Machine Learning, and Software Development.
+I enjoy building scalable data-driven systems that transform raw data into actionable insights. My work spans real-time analytics, machine learning, cloud-native applications, backend development, and distributed data processing.
 
-I enjoy building scalable data-driven systems that transform raw data into meaningful insights. My work spans real-time analytics, machine learning, cloud-native applications, and backend development.
+Currently, I'm developing a **Real-Time Network Intrusion Detection System (NIDS)** using Apache Kafka, Apache Spark, Python, Docker, and Machine Learning to detect cyber threats from large-scale network traffic streams.
 
-Currently, I am developing a **Real-Time Network Intrusion Detection System (NIDS)** using Machine Learning, Apache Kafka, Apache Spark, and Python to detect cyber threats from large-scale network traffic data.
+Let's connect and build something impactful! 🚀
 
-## 🚀 What I'm Working On
-
-* Real-Time Network Intrusion Detection System
-* Apache Kafka & Spark Streaming Applications
-* FastAPI Backend Development
-* Machine Learning & Predictive Analytics
-* Cloud-Native Applications
-* Data Engineering Projects
+---
 
 ## 💻 Tech Stack
 
 ### Languages
 
-Python • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Data Engineering
 
-Apache Kafka • Apache Spark • ETL Pipelines • Data Processing
-
-### Machine Learning
-
-Scikit-Learn • Pandas • NumPy • Feature Engineering • Model Evaluation
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 
 ### Backend Development
 
-FastAPI • REST APIs • Authentication • Backend Services
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Databases
 
-MySQL • Cassandra • Firebase
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 
 ### Cloud & DevOps
 
-Google Cloud Platform • Docker • Git • GitHub
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-### Analytics & Visualization
+---
 
-Power BI • Excel • Matplotlib
+## 🚀 Current Focus
+
+* Real-Time Network Intrusion Detection System
+* Apache Kafka & Spark Streaming
+* FastAPI Backend Development
+* Machine Learning & Predictive Analytics
+* AI Agents & LLM Applications
+* Cloud-Native Applications
+
+---
+
+## 📊 GitHub Stats
+
+![Anto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTOSOJAN\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ANTOSOJAN\&theme=tokyonight)
+
+---
 
 ## 📌 Featured Projects
 
 ### 🔐 Network Intrusion Detection System
 
-Machine Learning-based cybersecurity solution analysing 300,000+ network traffic records using Apache Kafka, Apache Spark, Python, and Docker.
+Machine Learning-powered cybersecurity solution analysing 300,000+ network traffic records using Apache Kafka, Apache Spark, Docker, and Python.
 
 ### 📸 Instagram Replica (FastAPI)
 
-Full-stack social media backend featuring authentication, user management, posts, comments, and REST APIs.
+Backend social media application featuring authentication, posts, comments, user management, and REST APIs.
 
 ### ⚡ Real-Time Analytics Platform
 
-Distributed streaming platform capable of processing 10,000+ events per minute using Kafka and Spark.
+Distributed streaming architecture capable of processing 10,000+ events per minute using Kafka and Spark.
 
 ### ☁️ Cloud Task Management Platform
 
 Cloud-native application built with FastAPI, Firebase, and Google Cloud Platform.
 
-## 🌱 Currently Learning
-
-* AI Agents & LLM Applications
-* Advanced Data Engineering
-* Cloud Architecture
-* Distributed Systems
+---
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/anto-s-illickal-3400721bb
-* GitHub: github.com/ANTOSOJAN
-* Email: [antosillickalkmr@gmail.com](mailto:antosillickalkmr@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/anto-s-illickal-3400721bb](http://www.linkedin.com/in/anto-s-illickal-3400721bb)
+
+📧 Email: [antosillickalkmr@gmail.com](mailto:antosillickalkmr@gmail.com)
 
 ⭐ Always interested in collaborating on Data Engineering, AI, and Software Development projects.
+
+
