@@ -1,4 +1,4 @@
-# Hello there, fellow <coders/> 👋
+# Hi there, /> 👋
 
 I'm **Anto**, an MSc Big Data Management & Analytics student at Griffith College Dublin with a passion for **Data Engineering, Artificial Intelligence, Machine Learning, and Software Development**.
 
@@ -8,7 +8,27 @@ Currently, I'm developing a **Real-Time Network Intrusion Detection System (NIDS
 
 Let's connect and build something impactful! 🚀
 
+🎓 MSc Big Data Management & Analytics @ Griffith College Dublin
+
+💡 Data Engineering | AI Engineering | Machine Learning | Backend Development
+
+📍 Dublin, Ireland
+
 ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Engineer;AI+Engineer;MSc+Big+Data+Management+%26+Analytics;Apache+Kafka+%7C+PySpark+%7C+FastAPI;Machine+Learning+Enthusiast;Open+to+2026+Graduate+Opportunities)](https://git.io/typing-svg)
+
+## 📈 GitHub Activity Graph
+
+[![Anto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ANTOSOJAN&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/ANTOSOJAN)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ANTOSOJAN&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANTOSOJAN&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTOSOJAN&layout=compact&theme=tokyonight&hide_border=true)
 
 # Tech Stack
 
@@ -68,12 +88,6 @@ Let's connect and build something impactful! 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![Anto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTOSOJAN\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ANTOSOJAN\&theme=tokyonight)
-
 ---
 
 ## 📌 Featured Projects
@@ -98,9 +112,9 @@ Cloud-native application built with FastAPI, Firebase, and Google Cloud Platform
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/anto-s-illickal-3400721bb](http://www.linkedin.com/in/anto-s-illickal-3400721bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anto-s-illickal-3400721bb)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:antosillickalkmr@gmail.com)
 
-📧 Email: [antosillickalkmr@gmail.com](mailto:antosillickalkmr@gmail.com)
 
 ⭐ Always interested in collaborating on Data Engineering, AI, and Software Development projects.
 
