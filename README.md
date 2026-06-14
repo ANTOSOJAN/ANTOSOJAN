@@ -118,4 +118,6 @@ Cloud-native application built with FastAPI, Firebase, and Google Cloud Platform
 
 ⭐ Always interested in collaborating on Data Engineering, AI, and Software Development projects.
 
+![](https://komarev.com/ghpvc/?username=ANTOSOJAN&style=for-the-badge)
+
 
